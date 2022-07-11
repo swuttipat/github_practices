@@ -8,3 +8,6 @@ Update#1:
 
 Update#2:
   * second update done by git bash/ git push
+  
+Update#3:
+  * clone from github to local
