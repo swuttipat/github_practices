@@ -4,4 +4,4 @@ My practice on github
   * to understand github basic command. :books:
 
 Update#1 :
-  * first git push
+  * first update done by github on browser
