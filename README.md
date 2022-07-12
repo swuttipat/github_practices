@@ -16,4 +16,4 @@ Update#4:
   * Upload to github
   
 Update#5:
-  * edit from 'readme-edits' branch
+  * edit from 'readme-edits' branch on github website
