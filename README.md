@@ -20,5 +20,5 @@ Update#5:
 
 update#6:
   * edit README.MD by texteditor
-  * create new branch to store any new changes
+  * create new branch name 'my-branch-2' to store any new changes
   * push changes to github
