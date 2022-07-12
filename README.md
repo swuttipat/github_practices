@@ -17,3 +17,8 @@ Update#4:
   
 Update#5:
   * edit from 'readme-edits' branch on github website
+
+update#6:
+  * edit README.MD by texteditor
+  * create new branch to store any new changes
+  * push changes to github
